@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/cheung/.platformio/penv/bin:/Users/cheung/.platformio/penv:/Users/cheung/miniconda3/bin:/usr/local/Cellar/pyenv-virtualenv/1.1.1/shims:/Users/cheung/.pyenv/shims:/usr/local/bin/google-cloud-sdk/bin:/usr/local/Cellar/pyenv-virtualenv/1.1.1/shims:/Users/cheung/.pyenv/shims:/Users/cheung/.opam/system/bin:/usr/local/opt/go/libexec/bin:/Users/cheung/Projects/gocode/bin:/Users/cheung/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/cheung/.fzf/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
